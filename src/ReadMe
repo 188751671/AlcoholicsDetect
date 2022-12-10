@@ -1,0 +1,5 @@
+kNN_find_OptimalK   用train+validation 数据集找到 optimalK
+
+然后kNN_test 用找到的optimalK 去运行 test数据集 ( 没有label对比的)
+
+kNN_GA 基因算法 用Train+Validation sets 找到最好的 Features ( 与以上2个无关 )
